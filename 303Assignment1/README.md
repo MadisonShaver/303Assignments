@@ -25,5 +25,7 @@ Using the add option, the user will need to enter the number they want to add.
 
 Using the delete option, the user will need to enter the index of the number they would like to delete.
 
+Screenshots:
+
 ![image](https://user-images.githubusercontent.com/91101715/192079977-bdc071e6-d0d8-470b-bc07-8b75919334e1.png)
 ![image](https://user-images.githubusercontent.com/91101715/192080015-f1935e1e-b4f9-4291-a332-3f2ac83b611f.png)
