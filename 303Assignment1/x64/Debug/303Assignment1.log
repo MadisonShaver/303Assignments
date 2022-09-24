@@ -1,0 +1,4 @@
+﻿  Assignment1.cpp
+  main.cpp
+  Generating Code...
+C:\Users\mlees\source\repos\303Assignments\303Assignment1\main.cpp(10): error C4700: uninitialized local variable 'num' used
